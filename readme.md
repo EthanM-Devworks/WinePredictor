@@ -10,7 +10,7 @@ INSTALLATION (Windows):
 
 MENU OPTION GUIDE:  
 	1.) The “Predict wine quality” option will allow you to predict the quality of a wine using requested values.  
-		NOTE: Insert the requested values as numbers or decimals. Do NOT insert letters or other extraneous symbols, as it WILL crash the program. Such checks are beyond the scope of this project's intentions.
+		NOTE: Insert the requested values as numbers or decimals. Do NOT insert letters or other extraneous symbols, as it WILL crash the program. Such checks are beyond the scope of this project's intentions.  
 	2.) The “View wine data table” option will allow you to see the dataset as an in-line table.  
 		NOTE: You will need to expand the command prompt window to fullscreen in order to see best.  
 	3.) The “View wine data bar graphs” option will allow you to see bar graphs which show the spread of all wines’ chemical values.  
